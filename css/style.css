@@ -1,0 +1,14 @@
+*{margin: 0px;padding:0px;}
+ul,li{list-style-type: none}
+body{font-family: "Microsoft YaHei"}
+.jumbotron h1{ color: #fff;text-align: center;font-size: 60px;font-weight: 700;margin: .67em 0;}
+.jumbotron p{text-align: center}
+.Q{background:url("../images/bj.png");padding: 60px 0 80px;margin-bottom: 0;
+    color: #fff;}
+.jumbotron{    text-align: center;background-color:rgb(83,38,75);}
+.tcl{background-color: rgb(245,245,245);height: 54px;border-bottom: 1px solid rgb(221,221,221);padding-top: 14px;}
+.bc{text-align: center;margin-top: 5px;}
+.bc li{display: inline-block;margin-right: 20px;border-right: 1px solid #ccc;padding-right: 20px;}
+.bc li a{color:rgb(85,85,85)}
+.page-header{text-align: center}
+.red:hover{color: red}
